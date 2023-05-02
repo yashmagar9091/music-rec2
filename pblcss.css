@@ -1,0 +1,51 @@
+.heading{
+    text-align: center;
+    font-size: 3rem;
+    background-color: blueviolet;
+    color: azure;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.858);
+}
+
+.img2{
+    display: inline;
+    border: 5px solid grey;
+}
+.mood{
+    text-align: center;
+    font-size: 3rem;
+    background-color: chocolate;
+    color: azure;
+    
+}
+div{
+    font-size: 2rem;
+    text-align: center;
+    color: azure;
+}
+div>.best{
+    background-color:crimson;
+}
+.thanks{
+    text-align: right;
+    color:darkcyan;
+    font-size: 1.5rem;
+}
+.intro{
+    text-align: right;
+    color:chartreuse;
+    font-size: 1.5rem;
+}
+a{
+    color:blanchedalmond;
+}
+.face{
+    text-align: center;
+    background-color:brown;
+    color:whitesmoke;
+    font-size: 3rem;
+}
+.dj{
+    margin-left: 0%;
+}
